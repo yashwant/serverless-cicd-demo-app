@@ -15,6 +15,12 @@ provider:
 functions:
   hello:
     handler: handler.hello
+    events:
+      - http:
+          path: alexdemo/show
+          method: get
+          cors: true
+          integration: lambda
 
 #resources:
 #  Resources:
