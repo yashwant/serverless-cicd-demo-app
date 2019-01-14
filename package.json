@@ -1,0 +1,11 @@
+{
+  "name": "lambda-serverless-cicd-demo-project",
+  "version": "1.0.0",
+  "description": "lambda-serverless-cicd-demo-project",
+  "repository": "",
+  "author": "Yashwant Gaikawad <yashwant@visionalyst.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-sam": "^0.2.0"
+  }
+}

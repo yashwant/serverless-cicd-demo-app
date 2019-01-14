@@ -1,0 +1,4 @@
+region: us-east-1
+stage: dev
+profile: yashwant.xeroeta
+DEPLOYMENT_S3_BUCKET: demo-serverless-app-deployment
